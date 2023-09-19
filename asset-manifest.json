@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/satyam16-ai/CHATWAVE/static/css/main.1a692254.css",
-    "main.js": "/satyam16-ai/CHATWAVE/static/js/main.507a1832.js",
+    "main.js": "/satyam16-ai/CHATWAVE/static/js/main.63d4e5b2.js",
     "index.html": "/satyam16-ai/CHATWAVE/index.html",
     "main.1a692254.css.map": "/satyam16-ai/CHATWAVE/static/css/main.1a692254.css.map",
-    "main.507a1832.js.map": "/satyam16-ai/CHATWAVE/static/js/main.507a1832.js.map"
+    "main.63d4e5b2.js.map": "/satyam16-ai/CHATWAVE/static/js/main.63d4e5b2.js.map"
   },
   "entrypoints": [
     "static/css/main.1a692254.css",
-    "static/js/main.507a1832.js"
+    "static/js/main.63d4e5b2.js"
   ]
 }
