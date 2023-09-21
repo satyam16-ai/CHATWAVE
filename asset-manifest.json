@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CHATWAVE/static/css/main.63bffe42.css",
-    "main.js": "/CHATWAVE/static/js/main.08564279.js",
+    "main.js": "/CHATWAVE/static/js/main.bcf0baea.js",
     "static/media/loder.gif": "/CHATWAVE/static/media/loder.c84334870f8e20c91ee2.gif",
     "index.html": "/CHATWAVE/index.html",
     "main.63bffe42.css.map": "/CHATWAVE/static/css/main.63bffe42.css.map",
-    "main.08564279.js.map": "/CHATWAVE/static/js/main.08564279.js.map"
+    "main.bcf0baea.js.map": "/CHATWAVE/static/js/main.bcf0baea.js.map"
   },
   "entrypoints": [
     "static/css/main.63bffe42.css",
-    "static/js/main.08564279.js"
+    "static/js/main.bcf0baea.js"
   ]
 }
