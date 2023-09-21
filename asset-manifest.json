@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CHATWAVE/static/css/main.1a692254.css",
-    "main.js": "/CHATWAVE/static/js/main.15c5b2d7.js",
+    "main.js": "/CHATWAVE/static/js/main.babb2f64.js",
     "index.html": "/CHATWAVE/index.html",
     "main.1a692254.css.map": "/CHATWAVE/static/css/main.1a692254.css.map",
-    "main.15c5b2d7.js.map": "/CHATWAVE/static/js/main.15c5b2d7.js.map"
+    "main.babb2f64.js.map": "/CHATWAVE/static/js/main.babb2f64.js.map"
   },
   "entrypoints": [
     "static/css/main.1a692254.css",
-    "static/js/main.15c5b2d7.js"
+    "static/js/main.babb2f64.js"
   ]
 }
